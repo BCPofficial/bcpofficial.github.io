@@ -34,7 +34,7 @@
   "name": "bloxd.io",
   "orientation": "landscape",
   "short_name": "bloxd",
-  "start_url": "https://bcpofficial.github.io",
+  "start_url": "https://bloxd.io",
   "theme_color": "#22283b",
   "display_override": [
     "standalone",
